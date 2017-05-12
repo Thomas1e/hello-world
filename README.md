@@ -5,3 +5,5 @@ das ist meine erste verzweigung :)
 Mein name ist ...
 
 neue Änderung
+
+added new line and send it with ssh
